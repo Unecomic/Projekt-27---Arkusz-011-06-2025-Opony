@@ -11,8 +11,6 @@ aside{
     overflow:auto ;
 }
 section{
-
-    width: 60%;
     height: 300px;
 }
 
@@ -77,3 +75,4 @@ h3{
     color: white;
     font-size: 140%;
 }
+
